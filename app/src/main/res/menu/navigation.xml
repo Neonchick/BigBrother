@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_contacts"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+        android:title="@string/contacts" />
+    <item
+        android:id="@+id/navigation_scenarios"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        android:title="@string/scenarios" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/profile" />
+</menu>
